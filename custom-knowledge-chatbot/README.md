@@ -2,6 +2,8 @@
 Custom knowledge indexer Using chatGPT3
 Original Script from [here](https://github.com/wombyz/custom-knowledge-chatbot)
 
+This script was made with [llama index](https://gpt-index.readthedocs.io/en/latest/)
+
 ## Requirements
 Python 3
 
